@@ -1,18 +1,20 @@
-# FinancialFraudDetection-Zaro-Trace
-A smart financial technology system designed to protect users from fraud during the transfer and payment process.
-An intelligent system for securing financial transactions and detecting fraud in real time using Machine Learning.
+# Goalify-Zaro-Trace
+Goalify is a smart financial assistant that helps users achieve their savings goals in a simple and interactive way.
+Users can set financial goals, track their progress, calculate savings plans, and simulate financial changes to understand their impact.
 
-# Idea:
-The project aims to protect users during money transfers and online payments by analyzing financial behavior and detecting unusual patterns such as:
-- Sudden changes in transaction amount.
-- Login from unfamiliar locations or devices.
+# Features:
+- Create and manage savings goals (travel, devices, etc.)
+- Smart savings calculator (daily / weekly / monthly)
+- Real-time progress tracking
+- Smart financial insights and suggestions
+- Crisis simulator to test financial scenarios
+- Expense and income tracking
+
+#  Project Objective:
+The goal of Goalify is to simplify personal saving habits and improve financial awareness through smart, interactive, and easy-to-use tools.
 
 # How It Works:
-The system uses the **Isolation Forest** algorithm for anomaly detection:
-1. Transaction data is entered.
-2. The model analyzes user behavior.
-3. The system determines whether the transaction is normal or suspicious.
-4. The result is displayed instantly.
+
 
 # Technologies Used:
 - Python.
@@ -20,9 +22,10 @@ The system uses the **Isolation Forest** algorithm for anomaly detection:
 - 
 -    
 
-# Features:
-- Real-time transaction analysis.
-- Behavioral-based detection.
-- Interactive dashboard.
-- Instant alerts for suspicious activities.
+# Team:
+ Zero Trace
+- Zainab Altaib
+- Malak Alharazi
+- Manal Alnhmei
+- Huda Alfakih
   
