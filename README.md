@@ -37,6 +37,6 @@ The app provides suggestions to improve saving habits and reach goals faster.
  Zero Trace
 - Zainab Altaib.
 - Malak Alharazi.
-- Manal Alnhmei.
 - Huda Alfakih.
+- Manal Alnhmei.
   
