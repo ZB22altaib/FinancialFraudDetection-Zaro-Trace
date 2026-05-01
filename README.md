@@ -27,6 +27,20 @@ The app simulates financial changes like increased expenses or emergencies and s
 - Get smart insights:
 The app provides suggestions to improve saving habits and reach goals faster.
 
+
+## 🛠️ Installation & Setup
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YourUsername/Goalify-Zaro-Trace.git](https://github.com/YourUsername/Goalify-Zaro-Trace.git)
+   cd Goalify-Zaro-Trace
+2. **Install dependencies:**
+   pip install -r requirements.txt
+4. **Run the Streamlit app:**
+   streamlit run main.py
+   
 # Technologies Used:
 - Python.
 - Machine Learning.
