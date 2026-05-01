@@ -37,8 +37,10 @@ To run this project locally, follow these steps:
    git clone [https://github.com/YourUsername/Goalify-Zaro-Trace.git](https://github.com/YourUsername/Goalify-Zaro-Trace.git)
    cd Goalify-Zaro-Trace
 2. **Install dependencies:**
+   ```bash
    pip install -r requirements.txt
 4. **Run the Streamlit app:**
+   ```bash
    streamlit run main.py
    
 # Technologies Used:
