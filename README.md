@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
 # Technologies Used:
 - Python.
 - Machine Learning.
-- 
+- DeepSeek
 -    
 
 # Team:
