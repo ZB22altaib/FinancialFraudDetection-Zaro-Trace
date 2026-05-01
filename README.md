@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/Goalify-Zaro-Trace.git](https://github.com/YourUsername/Goalify-Zaro-Trace.git)
+   git clone [https://github.com/ZB22altaib/Goalify-Zaro-Trace.git](https://github.com/ZB22altaib/Goalify-Zaro-Trace.git)
    cd Goalify-Zaro-Trace
 2. **Install dependencies:**
    ```bash
