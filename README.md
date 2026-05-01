@@ -28,7 +28,7 @@ The app simulates financial changes like increased expenses or emergencies and s
 The app provides suggestions to improve saving habits and reach goals faster.
 
 
-## 🛠️ Installation & Setup
+# Installation & Setup
 
 To run this project locally, follow these steps:
 
@@ -46,8 +46,7 @@ To run this project locally, follow these steps:
 # Technologies Used:
 - Python.
 - Machine Learning.
-- DeepSeek
--    
+- DeepSeek.   
 
 # Team:
  Zero Trace
